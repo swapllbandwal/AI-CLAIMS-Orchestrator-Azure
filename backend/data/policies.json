@@ -1,0 +1,98 @@
+[
+  {
+    "policy_number": "POL-AUTO-1001",
+    "holder_name": "Rajesh Kumar",
+    "coverage_type": "auto_comprehensive",
+    "status": "active",
+    "max_coverage": 50000,
+    "deductible": 500,
+    "effective_date": "2025-01-15",
+    "expiry_date": "2026-01-14",
+    "vehicle": "Maruti Suzuki Swift 2022",
+    "notes": "Full comprehensive cover including collision, theft, vandalism and weather damage. No prior claims."
+  },
+  {
+    "policy_number": "POL-AUTO-1002",
+    "holder_name": "Arjun Mehta",
+    "coverage_type": "auto_collision_only",
+    "status": "active",
+    "max_coverage": 25000,
+    "deductible": 1000,
+    "effective_date": "2024-08-01",
+    "expiry_date": "2026-07-31",
+    "vehicle": "Toyota Corolla – 2019 – White",
+    "notes": "Collision-only cover. Excludes theft and natural disaster. One prior approved claim of $1,800."
+  },
+  {
+    "policy_number": "POL-AUTO-1003",
+    "holder_name": "Amit Patel",
+    "coverage_type": "auto_comprehensive",
+    "status": "active",
+    "max_coverage": 80000,
+    "deductible": 750,
+    "effective_date": "2025-03-10",
+    "expiry_date": "2026-03-09",
+    "vehicle": "Honda City 2023",
+    "notes": "Premium comprehensive plan. No prior claims."
+  },
+  {
+    "policy_number": "POL-AUTO-1004",
+    "holder_name": "Sneha Iyer",
+    "coverage_type": "auto_comprehensive",
+    "status": "expired",
+    "max_coverage": 40000,
+    "deductible": 500,
+    "effective_date": "2023-06-01",
+    "expiry_date": "2024-05-31",
+    "vehicle": "Tata Nexon 2021",
+    "notes": "Policy expired. Renewal pending."
+  },
+  {
+    "policy_number": "POL-AUTO-1005",
+    "holder_name": "Vikram Singh",
+    "coverage_type": "auto_comprehensive",
+    "status": "active",
+    "max_coverage": 60000,
+    "deductible": 1000,
+    "effective_date": "2025-02-20",
+    "expiry_date": "2026-02-19",
+    "vehicle": "Mahindra XUV300 2022",
+    "notes": "Comprehensive plan. Two prior claims in 18 months — soft flag."
+  },
+  {
+    "policy_number": "POL-AUTO-1006",
+    "holder_name": "Anjali Mehta",
+    "coverage_type": "auto_comprehensive",
+    "status": "active",
+    "max_coverage": 100000,
+    "deductible": 1500,
+    "effective_date": "2024-11-01",
+    "expiry_date": "2025-10-31",
+    "vehicle": "BMW 3 Series 2024",
+    "notes": "Luxury vehicle cover with high coverage ceiling."
+  },
+  {
+    "policy_number": "POL-AUTO-1007",
+    "holder_name": "Karan Verma",
+    "coverage_type": "auto_collision_only",
+    "status": "active",
+    "max_coverage": 20000,
+    "deductible": 750,
+    "effective_date": "2025-04-12",
+    "expiry_date": "2026-04-11",
+    "vehicle": "Renault Kwid 2019",
+    "notes": "Entry-level collision cover. Vehicle older than 5 years — depreciation applies."
+  },
+  {
+    "policy_number": "POL-AUTO-1008",
+    "holder_name": "Meera Nair",
+    "coverage_type": "auto_comprehensive",
+    "status": "suspended",
+    "max_coverage": 45000,
+    "deductible": 500,
+    "effective_date": "2024-09-15",
+    "expiry_date": "2025-09-14",
+    "vehicle": "Kia Seltos 2022",
+    "notes": "Policy suspended pending premium payment. No claims while suspended."
+  }
+]

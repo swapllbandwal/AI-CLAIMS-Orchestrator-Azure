@@ -1,0 +1,42 @@
+[
+  {
+    "pattern": "Damage inconsistent with described incident",
+    "weight": "high",
+    "description": "Photos show damage pattern (e.g. paint transfer from another vehicle) that contradicts a claimed single-vehicle event."
+  },
+  {
+    "pattern": "Repeated claims by same policyholder in short window",
+    "weight": "high",
+    "description": "Two or more claims within 12 months — especially on similar areas of the vehicle — raises moral-hazard risk."
+  },
+  {
+    "pattern": "Late FIR / police report filing",
+    "weight": "medium",
+    "description": "Theft or collision reports filed more than 48 hours after the alleged incident, with no plausible reason."
+  },
+  {
+    "pattern": "Missing supporting documents on a high-value claim",
+    "weight": "high",
+    "description": "Claim amount > $10,000 without repair estimate, photos, or police report."
+  },
+  {
+    "pattern": "Vague or generic incident description",
+    "weight": "low",
+    "description": "Descriptions lacking time, location, weather, or witness specifics can indicate fabrication."
+  },
+  {
+    "pattern": "Repair estimate far above market norm",
+    "weight": "medium",
+    "description": "Submitted invoice exceeds typical regional repair cost for the described damage by > 50%."
+  },
+  {
+    "pattern": "Claim amount near policy ceiling",
+    "weight": "medium",
+    "description": "Amount conveniently sits just below max_coverage — pattern flag for inflated claims."
+  },
+  {
+    "pattern": "Vehicle moved or repaired before assessment",
+    "weight": "high",
+    "description": "Claimant cannot produce the damaged vehicle for inspection or has already repaired it."
+  }
+]

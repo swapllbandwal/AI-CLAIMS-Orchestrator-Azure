@@ -1,0 +1,34 @@
+# Env / secrets
+.env
+*.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+backend/venv/
+backend/.venv/
+backend/insurance-env/
+backend/uploads/
+uploads/
+backend/claims/
+backend/.cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,14 @@
+cd AI-CLAIMS-Orchestrator-Azure
+cp .env.example .env   # then paste real keys
+
+# Terminal 1 — backend
+cd backend
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+uvicorn main:app --reload --port 8000
+
+# Terminal 2 — frontend
+cd frontend
+npm install
+npm run dev

@@ -1,0 +1,152 @@
+[
+  {
+    "claim_id": "CLM-2024-0011",
+    "policy_number": "POL-AUTO-1001",
+    "claim_type": "auto_collision",
+    "amount": 2400,
+    "status": "approved",
+    "incident_date": "2024-07-12",
+    "description": "Minor rear-end collision at traffic light. Bumper dented, no airbag deployment.",
+    "decision_rationale": "Low value, clear photos, no fraud indicators."
+  },
+  {
+    "claim_id": "CLM-2024-0023",
+    "policy_number": "POL-AUTO-1002",
+    "claim_type": "auto_collision",
+    "amount": 1800,
+    "status": "approved",
+    "incident_date": "2024-10-03",
+    "description": "Driver-side door scratched while parking in a mall basement.",
+    "decision_rationale": "Cosmetic damage. Receipts matched."
+  },
+  {
+    "claim_id": "CLM-2024-0037",
+    "policy_number": "POL-AUTO-1005",
+    "claim_type": "auto_collision",
+    "amount": 5200,
+    "status": "approved",
+    "incident_date": "2024-11-19",
+    "description": "Front-end collision with another vehicle at an intersection. Hood and grille damaged.",
+    "decision_rationale": "Police report matched. Photos verified."
+  },
+  {
+    "claim_id": "CLM-2024-0048",
+    "policy_number": "POL-AUTO-1003",
+    "claim_type": "auto_vandalism",
+    "amount": 3800,
+    "status": "approved",
+    "incident_date": "2024-12-05",
+    "description": "Vehicle keyed along passenger side overnight in residential parking.",
+    "decision_rationale": "FIR filed, photos show fresh scratch pattern consistent with vandalism."
+  },
+  {
+    "claim_id": "CLM-2025-0002",
+    "policy_number": "POL-AUTO-1006",
+    "claim_type": "auto_collision",
+    "amount": 12500,
+    "status": "approved",
+    "incident_date": "2025-01-22",
+    "description": "Side-impact collision damaging rear passenger door and quarter panel of BMW 3 Series.",
+    "decision_rationale": "High-value but legitimate. OEM parts justified by luxury cover."
+  },
+  {
+    "claim_id": "CLM-2025-0014",
+    "policy_number": "POL-AUTO-1007",
+    "claim_type": "auto_collision",
+    "amount": 950,
+    "status": "approved",
+    "incident_date": "2025-02-14",
+    "description": "Front bumper minor crack from low-speed parking lot incident.",
+    "decision_rationale": "Small claim, matched repair quote."
+  },
+  {
+    "claim_id": "CLM-2024-0009",
+    "policy_number": "POL-AUTO-1001",
+    "claim_type": "auto_weather",
+    "amount": 4200,
+    "status": "approved",
+    "incident_date": "2024-06-30",
+    "description": "Hail damage to roof and hood during monsoon storm. Multiple dents.",
+    "decision_rationale": "Weather event verified via IMD records."
+  },
+  {
+    "claim_id": "CLM-2024-0055",
+    "policy_number": "POL-AUTO-1005",
+    "claim_type": "auto_collision",
+    "amount": 24800,
+    "status": "rejected_fraud",
+    "incident_date": "2024-12-22",
+    "description": "Severe front-end damage. Claimant alleges single-vehicle collision with tree at night.",
+    "decision_rationale": "Photos showed damage inconsistent with the described event; paint scrape suggested another vehicle. Investigation found prior claim 4 months earlier on similar damage."
+  },
+  {
+    "claim_id": "CLM-2024-0061",
+    "policy_number": "POL-AUTO-1007",
+    "claim_type": "auto_collision",
+    "amount": 19500,
+    "status": "rejected_fraud",
+    "incident_date": "2024-12-29",
+    "description": "Claimed total-loss collision but no police report, no witnesses, vehicle moved before assessment.",
+    "decision_rationale": "Pattern matched known staged-collision template. SIU escalation confirmed fraud."
+  },
+  {
+    "claim_id": "CLM-2024-0073",
+    "policy_number": "POL-AUTO-1002",
+    "claim_type": "auto_theft",
+    "amount": 22000,
+    "status": "rejected_fraud",
+    "incident_date": "2025-01-08",
+    "description": "Vehicle reportedly stolen from open street, no FIR filed for 5 days.",
+    "decision_rationale": "Late FIR filing and inconsistent witness statements. Pattern flag."
+  },
+  {
+    "claim_id": "CLM-2025-0021",
+    "policy_number": "POL-AUTO-1003",
+    "claim_type": "auto_collision",
+    "amount": 3100,
+    "status": "approved",
+    "incident_date": "2025-03-04",
+    "description": "Rear bumper crack and dent from low-speed impact while reversing.",
+    "decision_rationale": "Routine cosmetic repair. Repair invoice verified."
+  },
+  {
+    "claim_id": "CLM-2025-0029",
+    "policy_number": "POL-AUTO-1006",
+    "claim_type": "auto_collision",
+    "amount": 6800,
+    "status": "approved",
+    "incident_date": "2025-03-19",
+    "description": "Front passenger side fender and headlight damaged in lane-change collision.",
+    "decision_rationale": "Both parties' accounts matched. Photos consistent."
+  },
+  {
+    "claim_id": "CLM-2025-0036",
+    "policy_number": "POL-AUTO-1001",
+    "claim_type": "auto_collision",
+    "amount": 1450,
+    "status": "approved",
+    "incident_date": "2025-04-02",
+    "description": "Driver-side mirror broken in parking incident. Replacement only.",
+    "decision_rationale": "Trivial cost, clear photo evidence."
+  },
+  {
+    "claim_id": "CLM-2025-0042",
+    "policy_number": "POL-AUTO-1005",
+    "claim_type": "auto_collision",
+    "amount": 9200,
+    "status": "manual_review_approved",
+    "incident_date": "2025-04-15",
+    "description": "Multi-panel damage from intersection collision. Claimant's third claim in 14 months.",
+    "decision_rationale": "Approved after manual review — incident verified despite claim frequency flag."
+  },
+  {
+    "claim_id": "CLM-2025-0050",
+    "policy_number": "POL-AUTO-1008",
+    "claim_type": "auto_collision",
+    "amount": 4500,
+    "status": "rejected_policy",
+    "incident_date": "2025-04-28",
+    "description": "Bumper and headlight collision damage.",
+    "decision_rationale": "Policy was suspended at time of incident due to non-payment."
+  }
+]
